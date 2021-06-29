@@ -15,6 +15,9 @@
 	<description>Order micro-service Springboot</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>abhid16_orderMS</sonar.projectKey>
+        <sonar.organization>Abhijit Dhage</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
 	<dependencyManagement>
